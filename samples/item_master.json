@@ -1,0 +1,15 @@
+{
+    "id": "item_0",
+    "Name": "item_0",
+    "Price": 100,
+    "Rarity": 0.1,
+    "Count": 10,
+    "ImageURL": "https://cardgame.blob.core.windows.net/items/images/item_0.jpg",
+    "CreateAt": "2021-11-09 14:49:21",
+    "UpdateAt": "2021-11-09 14:49:21",
+    "_rid": "ZxZMAPdq-4QBAAAAAAAAAA==",
+    "_self": "dbs/ZxZMAA==/colls/ZxZMAPdq-4Q=/docs/ZxZMAPdq-4QBAAAAAAAAAA==/",
+    "_etag": "\"00003f19-0000-2300-0000-618a8a710000\"",
+    "_attachments": "attachments/",
+    "_ts": 1636469361
+}
